@@ -19,13 +19,18 @@ The storebuild script  has the functionality  and the automation capabilities to
 Store Build II is a comprehensive Windows automation tool designed to streamline the configuration and deployment of Point-of-Sale (POS) systems in retail environments. The application provides automated setup for both fixed and tablet POS systems, including network configuration, printer management, and system personalization.
 
 
+---
 
+### 📋 **Source Code**
 <div align="center">
-[![View Source Code](https://img.shields.io/badge/📄_View_Source_Code-beta5.au3-orange.svg?style=for-the-badge&logo=autoit)](./beta5.au3)
+  
+[![View Source Code](https://img.shields.io/badge/📄_View_Source_Code-beta5.au3-orange.svg?style=for-the-badge&logo=autoit)](beta5.%20au3)
 
-**[📖 View Complete Source Code: beta5.au3](./beta5.au3)**
+**[📖 View Complete Source Code: beta5.au3](beta5.%20au3)**
+
 </div>
 
+---
 
 
 
