@@ -24,9 +24,9 @@ Store Build II is a comprehensive Windows automation tool designed to streamline
 ### 📋 **Source Code**
 <div align="center">
   
-[![View Source Code](https://img.shields.io/badge/📄_View_Source_Code-beta5.au3-orange.svg?style=for-the-badge&logo=autoit)](beta5.au3)
+[![View Source Code](https://img.shields.io/badge/📄_View_Source_Code-beta5.au3-orange.svg?style=for-the-badge&logo=autoit)](GoldStoreBuildBeta5.au3)
 
-**[📖 View Complete Source Code: beta5.au3](beta5.0au3)**
+**[📖 View Complete Source Code: beta5.au3](GoldStoreBuildBeta5.au3)**
 
 </div>
 
